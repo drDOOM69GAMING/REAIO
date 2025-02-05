@@ -1,4 +1,4 @@
-# REInstaller
+# REAIO
 
 A Qt-based **Resident Evil (Biohazard) Mod Installer** that simplifies the process of installing and managing mods for Resident Evil 1, 2, and 3. It automates file extraction, organization, and installation while providing a user-friendly interface.
 
