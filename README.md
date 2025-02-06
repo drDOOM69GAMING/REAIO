@@ -35,7 +35,12 @@ pacman -Syu
 pacman -S mingw-w64-x86_64-gcc \
           mingw-w64-x86_64-pkg-config \
           mingw-w64-x86_64-qt5 \
-          mingw-w64-x86_64-quazip
+          mingw-w64-x86_64-quazip \
+          mingw-w64-x86_64-cmake \
+          mingw-w64-x86_64-make \
+          mingw-w64-x86_64-libtool \
+          mingw-w64-x86_64-zlib \
+          mingw-w64-x86_64-openssl
 ```
 
 ### Step 2: Clone the Repository
