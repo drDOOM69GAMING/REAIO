@@ -212,10 +212,3 @@ SOFTWARE.
 |----------------------------------------------------|
 
 ![Untitled456789](https://github.com/user-attachments/assets/35e774af-9eae-4eb7-8806-718945cbcf28)
-
-
-
-
-![Screenshot 2025-02-06 045822](https://github.com/user-attachments/assets/7addaa1a-4e3a-4b29-8ddd-d3616c3914b5)
-
-
